@@ -1,0 +1,11 @@
+# How similar was your plan to the final program? Did you have to digress from your plan as the program developed?
+    The program was pretty similar to the plan. We had used this as a blueprint/guide to start building out the total program but  there was a few deviations when we forgot certain method would be required to test our results.
+
+
+# Does each of your classes follow the Single Responsibility principle? Or are any of your classes doing too much?
+  Yes .. i think so. The game logic was beginning to get a little much but it only contained the necessary methods for progressing the game.
+Did you practice TDD?
+ Yes initially everything was built out using the TDD method but i think once we got closer to the end time and began hitting more difficult problems the TDD began to slip slightly and we try to change method on the fly and test them later.
+
+Are each of your methods tested? Did you find anything difficult to test?
+  each of our methods were tested however one test seemed to pass but near the end of the program we realised it wasn't working as we actually intended. it provided the relevant output to pass the test but made it difficult to then use later in our program.
